@@ -4,10 +4,20 @@
 
 
 
+
+
+
+
 ## What is the biggest circuit board in a computer?
+
+
 
 In a desktop computer, the [motherboard](https://www.computerhope.com/jargon/m/mothboar.htm) is the largest circuit board that all other boards and devices connect to and communicate with each other.
 
+
+
 ## What are the boards that connect to a motherboard?
+
+
 
 In a desktop computer, [expansion cards](https://www.computerhope.com/jargon/e/expacard.htm) can be added to a computer to upgrade an existing component (e.g., a [video card](https://www.computerhope.com/jargon/v/video-card.htm)) or add new functionality to a computer.

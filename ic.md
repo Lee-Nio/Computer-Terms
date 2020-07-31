@@ -4,7 +4,7 @@
 IC may refer to any of the following:
 
 + Alternatively referred to as a bare chip (裸芯片), monolithic integrated circuit (单片集成电路), or microchip (微芯片). The IC is a package containing many circuits, logic gates (逻辑门), pathways (路径), transistors (晶体管), and other components all working together to perform a particular function or a series of functions. Integrated circuits are the building blocks of computer hardware.
-![dd](https://www.computerhope.com/jargon/i/ic.jpg "ddd")
+  ![dd](https://www.computerhope.com/jargon/i/ic.jpg "ddd")
 
 The picture shows an example of several integrated circuits. Because the IC is fragile, it's often encased in a plastic package with metal pins extending out of it to connect to a circuit board. An IC may be packaged as SIP (single in-line package), DIP (dual in-line package), PLCC (plastic leaded chip carrier), or another type.<br/>
 &ensp;**Integrated circuit generations**
